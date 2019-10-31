@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Silently pretending to watch your every move (in a non-creepy way) while looking super sweet!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+A chill dude who is super introverted, but really wanting to have more friends, but also not really. 
+Having a hard time deciding if I want to have more friends or not; this is becoming an internal monologue
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[NotRealDude@NoDomain.Ru](mailto:NotRealDude@NoDomain.Ru)
